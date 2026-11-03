@@ -1,6 +1,5 @@
-# E-Commerce-Platform
-Developed a full-stack e-commerce web application enabling users to browse, search, and purchase products with a seamless checkout  experience
-# 🛒 Full-Stack E-Commerce Platform
+
+#  Full-Stack E-Commerce Platform
 
 A full-stack E-Commerce web application built using the MERN stack, enabling users to browse products, search and filter items, manage shopping carts, and securely complete purchases through Stripe payment integration.
 
